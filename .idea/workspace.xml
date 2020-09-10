@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ae85268-1228-451a-94c3-ad7b88150ab3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e2xAAkrduECY2nGDqyd5kbcDgi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testing/TP3" />
+    <property name="settings.editor.selected.configurable" value="Images" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm\proyectos utn\P1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main_part">
+    <configuration name="cuestionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Guia15" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Guia15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Guia15/cuestionarios.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="experimento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../P1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../P1/experimento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="p3_aed_bruera_stefania_59149_1k10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../parciales/p3_aed_bruera_stefania_59149_1k10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../parciales/p3_aed_bruera_stefania_59149_1k10/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_cruces" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TP3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../testing/TP3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../testing/TP3/main_cruces.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_part" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Copia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Copia" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Copia/main_part.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_part" />
+        <item itemvalue="Python.experimento" />
+        <item itemvalue="Python.main_cruces" />
+        <item itemvalue="Python.cuestionarios" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ae85268-1228-451a-94c3-ad7b88150ab3" name="Default Changelist" comment="" />
+      <created>1593533343063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593533343063</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="359" y="103" width="726" height="635" key="#Notifications" timestamp="1593533609457">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="359" y="103" width="726" height="635" key="#Notifications/0.0.1366.738/1366.-361.1680.1020@0.0.1366.738" timestamp="1593533609457" />
+    <state x="363" y="107" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595944526484">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="107" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738/1366.-361.1680.1020@0.0.1366.738" timestamp="1595944526484" />
+    <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599594083893">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="118" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738/1366.-361.1680.1020@0.0.1366.738" timestamp="1599594083893" />
+    <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1599588838479">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.738/1366.-361.1680.1020@0.0.1366.738" timestamp="1599588838479" />
+    <state x="1935" y="-187" key="FileChooserDialogImpl/0.0.1366.738/1366.-361.1680.1020@1366.-361.1680.1020" timestamp="1599226702085" />
+    <state width="1345" height="482" key="GridCell.Tab.0.bottom" timestamp="1599707143351">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="153" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-361.1344.810@0.0.1366.738" timestamp="1596890157968" />
+    <state width="1323" height="124" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-361.1344.810@1366.-361.1344.810" timestamp="1596852543568" />
+    <state width="1345" height="482" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-361.1680.1020@0.0.1366.738" timestamp="1599707143351" />
+    <state width="1659" height="336" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-361.1680.1020@1366.-361.1680.1020" timestamp="1599187217147" />
+    <state width="1345" height="482" key="GridCell.Tab.0.center" timestamp="1599707143351">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="153" key="GridCell.Tab.0.center/0.0.1366.738/1366.-361.1344.810@0.0.1366.738" timestamp="1596890157968" />
+    <state width="1323" height="124" key="GridCell.Tab.0.center/0.0.1366.738/1366.-361.1344.810@1366.-361.1344.810" timestamp="1596852543567" />
+    <state width="1345" height="482" key="GridCell.Tab.0.center/0.0.1366.738/1366.-361.1680.1020@0.0.1366.738" timestamp="1599707143351" />
+    <state width="1659" height="336" key="GridCell.Tab.0.center/0.0.1366.738/1366.-361.1680.1020@1366.-361.1680.1020" timestamp="1599187217147" />
+    <state width="1345" height="482" key="GridCell.Tab.0.left" timestamp="1599707143351">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="153" key="GridCell.Tab.0.left/0.0.1366.738/1366.-361.1344.810@0.0.1366.738" timestamp="1596890157967" />
+    <state width="1323" height="124" key="GridCell.Tab.0.left/0.0.1366.738/1366.-361.1344.810@1366.-361.1344.810" timestamp="1596852543567" />
+    <state width="1345" height="482" key="GridCell.Tab.0.left/0.0.1366.738/1366.-361.1680.1020@0.0.1366.738" timestamp="1599707143351" />
+    <state width="1659" height="336" key="GridCell.Tab.0.left/0.0.1366.738/1366.-361.1680.1020@1366.-361.1680.1020" timestamp="1599187217147" />
+    <state width="1345" height="482" key="GridCell.Tab.0.right" timestamp="1599707143351">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="153" key="GridCell.Tab.0.right/0.0.1366.738/1366.-361.1344.810@0.0.1366.738" timestamp="1596890157968" />
+    <state width="1323" height="124" key="GridCell.Tab.0.right/0.0.1366.738/1366.-361.1344.810@1366.-361.1344.810" timestamp="1596852543567" />
+    <state width="1345" height="482" key="GridCell.Tab.0.right/0.0.1366.738/1366.-361.1680.1020@0.0.1366.738" timestamp="1599707143351" />
+    <state width="1659" height="336" key="GridCell.Tab.0.right/0.0.1366.738/1366.-361.1680.1020@1366.-361.1680.1020" timestamp="1599187217147" />
+    <state width="1659" height="340" key="GridCell.Tab.1.bottom" timestamp="1599015238871">
+      <screen x="1366" y="-361" width="1680" height="1020" />
+    </state>
+    <state width="1659" height="340" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.-361.1680.1020@1366.-361.1680.1020" timestamp="1599015238871" />
+    <state width="1659" height="340" key="GridCell.Tab.1.center" timestamp="1599015238871">
+      <screen x="1366" y="-361" width="1680" height="1020" />
+    </state>
+    <state width="1659" height="340" key="GridCell.Tab.1.center/0.0.1366.738/1366.-361.1680.1020@1366.-361.1680.1020" timestamp="1599015238871" />
+    <state width="1659" height="340" key="GridCell.Tab.1.left" timestamp="1599015238871">
+      <screen x="1366" y="-361" width="1680" height="1020" />
+    </state>
+    <state width="1659" height="340" key="GridCell.Tab.1.left/0.0.1366.738/1366.-361.1680.1020@1366.-361.1680.1020" timestamp="1599015238871" />
+    <state width="1659" height="340" key="GridCell.Tab.1.right" timestamp="1599015238871">
+      <screen x="1366" y="-361" width="1680" height="1020" />
+    </state>
+    <state width="1659" height="340" key="GridCell.Tab.1.right/0.0.1366.738/1366.-361.1680.1020@1366.-361.1680.1020" timestamp="1599015238871" />
+    <state x="186" y="15" key="SettingsEditor" timestamp="1597194243946">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="15" key="SettingsEditor/0.0.1366.738/1366.-361.1680.1020@0.0.1366.738" timestamp="1597194243946" />
+    <state x="1576" y="-133" width="1098" height="504" maximized="true" key="dock-window-1" timestamp="1599704113551">
+      <screen x="1366" y="-361" width="1680" height="1020" />
+    </state>
+    <state x="1576" y="-133" width="1098" height="504" maximized="true" key="dock-window-1/0.0.1366.738/1366.-361.1680.1020@0.0.1366.738" timestamp="1599704113551" />
+    <state x="0" y="0" width="1382" height="826" maximized="true" key="dock-window-1/0.0.1366.738/1366.-361.1680.1020@1366.-361.1680.1020" timestamp="1599103864402" />
+    <state x="0" y="0" width="1382" height="758" key="dock-window-2" timestamp="1599002720254">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" width="1382" height="758" key="dock-window-2/0.0.1366.738/1366.-361.1680.1020@1366.-361.1680.1020" timestamp="1599002720254" />
+    <state x="1481" y="-100" width="1118" height="588" maximized="true" key="dock-window-3" timestamp="1599003611001">
+      <screen x="1366" y="-361" width="1680" height="1020" />
+    </state>
+    <state x="1481" y="-100" width="1118" height="588" maximized="true" key="dock-window-3/0.0.1366.738/1366.-361.1680.1020@0.0.1366.738" timestamp="1599003611001" />
+    <state x="534" y="146" key="refactoring.ChangeSignatureDialog" timestamp="1599151919348">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="534" y="146" key="refactoring.ChangeSignatureDialog/0.0.1366.738/1366.-361.1680.1020@0.0.1366.738" timestamp="1599151919348" />
+    <state x="1792" y="-279" width="827" height="938" key="search.everywhere.popup" timestamp="1599179058840">
+      <screen x="1366" y="-361" width="1680" height="1020" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.-361.1680.1020@0.0.1366.738" timestamp="1599146842224" />
+    <state x="1792" y="-279" width="827" height="938" key="search.everywhere.popup/0.0.1366.738/1366.-361.1680.1020@1366.-361.1680.1020" timestamp="1599179058840" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Guia18/lista_registro.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
